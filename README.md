@@ -2,6 +2,8 @@
 
 A modern Point of Sale (POS) system for restaurant management built with Node.js, Express, and PostgreSQL.
 
+> **🚀 Quick Start**: New to the project? Check out [QUICKSTART.md](QUICKSTART.md) to get up and running in under 5 minutes!
+
 ## 🚀 Features
 
 - RESTful API for restaurant operations
